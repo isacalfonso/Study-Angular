@@ -1,1 +1,1 @@
-# Study-Angular
+Olá meu nome é isac, tenho 23 anos e aqui estarei compartilhando oque estou aprendendo com angular, desde o inicio até ser contratado hahahaha. (tudo catalogado com datas).
